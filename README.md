@@ -32,8 +32,10 @@ addProblemExtension(new VTSPLProblemExtension());
 
 Run Nautilus Framework as usual. If everything is working well, when you initiate a new execution, the VTSPL problem is going to be available as follows:
 
+<kbd>
 ![Screen Shot 2020-09-30 at 11 47 07 AM](https://user-images.githubusercontent.com/114015/94708545-bb346580-0312-11eb-99b6-5fba786e071f.png)
-
+</kbd>
+  
 ## Objective Functions
 
 This plugin supports the following objective functions 

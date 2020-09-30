@@ -54,16 +54,23 @@ Please feel free to pull request a new set of objectives.
 
 This plugins makes available the following feature model (problem instances) for your experiments:
 
-a) James: SPL for collaborative web systems [6];
-b) CAS (Car Audio System): a SPL to manage automotive sound systems [84];
-c) WS (Weather Station): SPL for weather forecast systems [7];
-d) E-Shop: an E-commerce SPL [71];
-e) Drupal: a modular open source web content management framework [62];
-f) Smarthome v2.2: SPL for a smart residential solution [43].
+1. **James:** SPL for collaborative web systems [6];
+2. **CAS (Car Audio System):** a SPL to manage automotive sound systems [84];
+3. **WS (Weather Station):** SPL for weather forecast systems [7];
+4. **E-Shop:** an E-commerce SPL [71];
+5. **Drupal:** a modular open source web content management framework [62];
+6. **Smarthome v2.2:** SPL for a smart residential solution [43].
 
-The following table shows information about each FM
+The following table shows information about each feature model:
 
-
+| FM | # of Products | # of Used Products | Alive Mutants | Valid Pairs | # of Features |
+|------|-----|---|---|---|---|
+|		James       |       68        |    68     |    106     |    75     |        14 |   
+|		CAS         |       450       |    450    |    227     |    183    |        21 |
+|		WS          |       504       |    504    |    357     |    195    |        22 |
+|		E-Shop      |      1152       |   1152    |     94     |    202    |        22 |
+|		Drupal      | ~2.09E9 |    11k    |    2194    |   1081    |        48 |
+|		Smarthome   | ~3.87E9 |    11k    |    2948    |   1710    |        60 |
 
 ## Questions or Suggestions
 

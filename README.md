@@ -44,13 +44,13 @@ Run Nautilus Framework as usual. If everything is working well, when you initiat
 
 This plugin supports the following objective functions 
 
-- Number Of Products
-- Alive Mutants
-- Uncovered Pairs
-- Similarity
-- Cost
-- Unselected Features
-- Unimportant Features
+1. Number Of Products
+2. Alive Mutants
+3. Uncovered Pairs
+4. Similarity
+5. Cost
+6. Unselected Features
+7. Unimportant Features
 
 Please feel free to pull request a new set of objectives.
 

@@ -24,7 +24,7 @@ Open the pom.xml file at ```nautilus-web``` module (from Nautilus Framework) and
 </dependency>
 ```
 
-At ```nautilus-web``` search for ```PluginService```and add the following fragment code at ```loadPluginsFromClasspath``` method:
+At ```nautilus-web``` search for `PluginService` and add the following fragment code at ```loadPluginsFromClasspath``` method:
 
 ```java
 addProblemExtension(new VTSPLProblemExtension());
@@ -63,7 +63,7 @@ This plugins makes available the following feature model (problem instances) for
 
 The following table shows information about each feature model:
 
-| FM | # of Products | # of Used Products | Alive Mutants | Valid Pairs | # of Features |
+| Feature Model | # of Products | # of Used Products | Alive Mutants | Valid Pairs | # of Features |
 |------|-----|---|---|---|---|
 |		James       |       68        |    68     |    106     |    75     |        14 |   
 |		CAS         |       450       |    450    |    227     |    183    |        21 |

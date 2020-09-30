@@ -36,6 +36,35 @@ If everything is working well, when you initiate a new execution, the VTSPL prob
 
 ![Screen Shot 2020-09-30 at 11 47 07 AM](https://user-images.githubusercontent.com/114015/94708545-bb346580-0312-11eb-99b6-5fba786e071f.png)
 
+## Objective Functions
+
+This plugin supports the following objective functions 
+
+- Number Of Products
+- Alive Mutants
+- Uncovered Pairs
+- Similarity
+- Cost
+- Unselected Features
+- Unimportant Features
+
+Please feel free to pull request a new set of objectives.
+
+## Problem Instance
+
+This plugins makes available the following feature model (problem instances) for your experiments:
+
+a) James: SPL for collaborative web systems [6];
+b) CAS (Car Audio System): a SPL to manage automotive sound systems [84];
+c) WS (Weather Station): SPL for weather forecast systems [7];
+d) E-Shop: an E-commerce SPL [71];
+e) Drupal: a modular open source web content management framework [62];
+f) Smarthome v2.2: SPL for a smart residential solution [43].
+
+The following table shows information about each FM
+
+
+
 ## Questions or Suggestions
 
 Feel free to create <a href="https://github.com/nautilus-framework/nautilus-plugin-vtspl/issues">issues</a> here as you need

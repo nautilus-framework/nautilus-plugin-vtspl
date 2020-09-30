@@ -7,7 +7,7 @@
 		<artifactId>nautilus</artifactId>
 		<version>1.0.0</version>
 	</parent>
-	<groupId>thiagodnf.nautilus.plugin</groupId>
+	<groupId>org.nautilus.plugin</groupId>
 	<artifactId>nautilus-plugin-vtspl</artifactId>
 	<name>Nautilus Plugin VTSPL</name>
 	<description>Nautilus plugin for the VTSPL problem</description>

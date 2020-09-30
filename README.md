@@ -64,7 +64,7 @@ This plugins makes available the following feature model (problem instances) for
 The following table shows information about each feature model:
 
 | Feature Model | # of Products  | Alive Mutants | Valid Pairs | # of Features |
-|------:---:|:---:|:---:|:---:|
+|------|:---:|:---:|:---:|:---:|
 |		James       |       68            |    106     |    75     |        14 |   
 |		CAS         |       450           |    227     |    183    |        21 |
 |		WS          |       504           |    357     |    195    |        22 |

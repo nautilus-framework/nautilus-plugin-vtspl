@@ -1,6 +1,6 @@
 # Nautilus Plugin VTSPL
 
-Nautilus plugin for the VTSPL problem
+Nautilus plugin for the Variability Testing of Software Product Lines (VTSPL) problem
 
 ## Requirements
 

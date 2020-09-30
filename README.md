@@ -10,7 +10,7 @@ Nautilus plugin for the Variability Testing of Software Product Lines (VTSPL) pr
 
 The original paper was published at:
 
-Thiago Ferreira, Silvia Vergilio and Marouane Kessentini. Many-objective Search-based Selection of Software Product Line Test Products with Nautilus. In Proceedings of the 24th International Software Product Line Conference (SPLC '20), pages 32–41, Montreal, Canada, 2020. ACM.
+> Thiago Ferreira, Silvia Vergilio and Marouane Kessentini. Many-objective Search-based Selection of Software Product Line Test Products with Nautilus. In Proceedings of the 24th International Software Product Line Conference (SPLC '20), pages 32–41, Montreal, Canada, 2020. ACM.
 
 ## Requirements
 

@@ -4,7 +4,7 @@ Nautilus plugin for the VTSPL problem
 
 ## Requirements
 
-You need to download https://github.com/nautilus-framework/nautilus-framework before installing this plugin
+You need to download Nautilus Framework in your machine (available at https://github.com/nautilus-framework/nautilus-framework) before installing this plugin
 
 ## Usage
 

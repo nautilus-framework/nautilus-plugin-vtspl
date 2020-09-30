@@ -100,6 +100,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
  - [4] J.A. Parejo, A.B. Sánchez, S. Segura, A. Ruiz-Cortés, R. Lopez-Herrejon, and A. Egyed. Multi-objective test case prioritization in highly configurable systems: A case study. Journal of Systems and Software, 122:287–310, September 2016.
 
- - [5] S.Segura,R.M.Hierons, D.Benavides,and A.Ruiz-Cortés.Automatedtestdatageneration on the analyses of feature models: A metamorphic testing approach. In Proceedings of the 3nd International Conference on Software Testing, Verification and Validation (ICST ’10), pages 35–44, Paris, France, 2010. IEEE.
+ - [5] S.Segura, R.M.Hierons, D.Benavides,and A.Ruiz-Cortés.Automatedtestdatageneration on the analyses of feature models: A metamorphic testing approach. In Proceedings of the 3nd International Conference on Software Testing, Verification and Validation (ICST ’10), pages 35–44, Paris, France, 2010. IEEE.
 
  - [6] S. Wang, D. Buchmann, S. Ali, A. Gotlieb, D. Pradhan, and M. Liaaen. Multi-objective test prioritization in software product line testing: An industrial case study. In Proceedings of the 18th International Software Product Line Conference (SPLC ’14), pages 32–41, Florence, Italy, 2014. ACM.

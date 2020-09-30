@@ -63,14 +63,14 @@ This plugins makes available the following feature model (problem instances) for
 
 The following table shows information about each feature model:
 
-| Feature Model | # of Products | # of Used Products | Alive Mutants | Valid Pairs | # of Features |
-|------|-----|---|---|---|---|
-|		James       |       68        |    68     |    106     |    75     |        14 |   
-|		CAS         |       450       |    450    |    227     |    183    |        21 |
-|		WS          |       504       |    504    |    357     |    195    |        22 |
-|		E-Shop      |      1152       |   1152    |     94     |    202    |        22 |
-|		Drupal      | ~2.09E9 |    11k    |    2194    |   1081    |        48 |
-|		Smarthome   | ~3.87E9 |    11k    |    2948    |   1710    |        60 |
+| Feature Model | # of Products  | Alive Mutants | Valid Pairs | # of Features |
+|------|:-----:|:---:|:---:|:---:|:---:|
+|		James       |       68            |    106     |    75     |        14 |   
+|		CAS         |       450           |    227     |    183    |        21 |
+|		WS          |       504           |    357     |    195    |        22 |
+|		E-Shop      |      1152           |     94     |    202    |        22 |
+|		Drupal      | ~2.09E9     |    2194    |   1081    |        48 |
+|		Smarthome   | ~3.87E9     |    2948    |   1710    |        60 |
 
 ## Questions or Suggestions
 

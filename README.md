@@ -50,7 +50,7 @@ This plugin supports the following objective functions
 
 Please feel free to pull request a new set of objectives.
 
-## Problem Instance
+## Problem Instances
 
 This plugins makes available the following feature model (problem instances) for your experiments:
 

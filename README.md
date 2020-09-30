@@ -2,9 +2,9 @@
 
 Nautilus plugin for the Variability Testing of Software Product Lines (VTSPL) problem
 
-[![GitHub Release](https://img.shields.io/github/release/thiagodnf/visjs-extras-groupsequence.svg)](https://github.com/thiagodnf/visjs-extras-groupsequence/releases/latest)
-[![GitHub contributors](https://img.shields.io/github/contributors/thiagodnf/visjs-extras-groupsequence.svg)](https://github.com/thiagodnf/visjs-extras-groupsequence/graphs/contributors)
-[![GitHub stars](https://img.shields.io/github/stars/thiagodnf/visjs-extras-groupsequence.svg)](https://github.com/almende/thiagodnf/visjs-extras-groupsequence)
+[![GitHub Release](https://img.shields.io/github/release/nautilus-framework/nautilus-plugin-vtspl.svg)](https://github.com/nautilus-framework/nautilus-plugin-vtspl/releases/latest)
+[![GitHub contributors](https://img.shields.io/github/contributors/nautilus-framework/nautilus-plugin-vtspl.svg)](https://github.com/nautilus-framework/nautilus-plugin-vtspl/graphs/contributors)
+[![GitHub stars](https://img.shields.io/github/stars/nautilus-framework/nautilus-plugin-vtspl.svg)](https://github.com/almende/nautilus-framework/nautilus-plugin-vtspl)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
@@ -38,7 +38,7 @@ If everything is working well, when you initiate a new execution, the VTSPL prob
 
 ## Questions or Suggestions
 
-Feel free to create <a href="https://github.com/thiagodnf/visjs-extras-groupsequence/issues">issues</a> here as you need
+Feel free to create <a href="https://github.com/nautilus-framework/nautilus-plugin-vtspl/issues">issues</a> here as you need
 
 ## Contribute
 
@@ -48,7 +48,7 @@ Contributions to the this project are very welcome! We can't do this alone! Feel
 
 * **Thiago Ferreira** - *Initial work*
 
-See also the list of [contributors](https://github.com/thiagodnf/visjs-extras-groupsequence/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/nautilus-framework/nautilus-plugin-vtspl/graphs/contributors) who participated in this project.
 
 ## License
 

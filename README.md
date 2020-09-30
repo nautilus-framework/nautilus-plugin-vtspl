@@ -76,6 +76,15 @@ The following table shows information about each feature model:
 |		Drupal      | ~2.09E9     |    2194    |   1081    |        48 |
 |		Smarthome   | ~3.87E9     |    2948    |   1710    |        60 |
 
+## Screenshot
+
+The following image shows an execution considering all objective functions
+
+<kbd>
+  <img src="https://user-images.githubusercontent.com/114015/94716124-6695e800-031c-11eb-8d58-2a028b9fd8cb.png">
+</kbd>
+
+
 ## Questions or Suggestions
 
 Feel free to create <a href="https://github.com/nautilus-framework/nautilus-plugin-vtspl/issues">issues</a> here as you need

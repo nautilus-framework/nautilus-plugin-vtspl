@@ -22,7 +22,7 @@ Open the pom.xml file at ```nautilus-web``` module (from Nautilus Framework) and
 
 ```xml
 <dependency>
-  <groupId>thiagodnf.nautilus.plugin</groupId>
+  <groupId>org.nautilus.plugin</groupId>
   <artifactId>nautilus-plugin-vtspl</artifactId>
   <version>1.0.0</version>
 </dependency>

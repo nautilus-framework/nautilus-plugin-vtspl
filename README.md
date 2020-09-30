@@ -54,12 +54,12 @@ Please feel free to pull request a new set of objectives.
 
 This plugins makes available the following feature model (problem instances) for your experiments:
 
-1. **James:** SPL for collaborative web systems [6];
-2. **CAS (Car Audio System):** a SPL to manage automotive sound systems [84];
-3. **WS (Weather Station):** SPL for weather forecast systems [7];
-4. **E-Shop:** an E-commerce SPL [71];
-5. **Drupal:** a modular open source web content management framework [62];
-6. **Smarthome v2.2:** SPL for a smart residential solution [43].
+1. **James:** SPL for collaborative web systems [1];
+2. **CAS (Car Audio System):** a SPL to manage automotive sound systems [6];
+3. **WS (Weather Station):** SPL for weather forecast systems [2];
+4. **E-Shop:** an E-commerce SPL [5];
+5. **Drupal:** a modular open source web content management framework [4];
+6. **Smarthome v2.2:** SPL for a smart residential solution [3].
 
 The following table shows information about each feature model:
 
@@ -92,16 +92,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## References
 
-1. [6] D. Benavides, S. Trujillo, and P. Trinidad. On the modularization of feature models. In Proceedings of the 1st European Workshop on Model Transformation (CMT ’06), page 134, Bilbao, Spain, 2005.
+[1] D. Benavides, S. Trujillo, and P. Trinidad. On the modularization of feature models. In Proceedings of the 1st European Workshop on Model Transformation (CMT ’06), page 134, Bilbao, Spain, 2005.
 
-2. [84] S. Wang, D. Buchmann, S. Ali, A. Gotlieb, D. Pradhan, and M. Liaaen. Multi-objective test prioritization in software product line testing: An industrial case study. In Proceedings of the 18th International Software Product Line Conference (SPLC ’14), pages 32–41, Florence, Italy, 2014. ACM.
+[2] D. Beuche and M. Dalgarno. Software product line engineering with feature models. Overload Journal, 78:5–8, 2007.
 
-3. [7] D. Beuche and M. Dalgarno. Software product line engineering with feature models. Overload Journal, 78:5–8, 2007.
+[3] C. Henard, M. Papadakis, G. Perrouin, J. Klein, and Y. Le Traon. Multi-objective test generation for software product lines. In Proceedings of the 17th International Software Product Line Conference (SPLC ’13), pages 62–71, Tokyo, Japan, 2013. ACM.
 
-4. [71] S.Segura,R.M.Hierons,D.Benavides,andA.Ruiz-Cortés.Automatedtestdatageneration on the analyses of feature models: A metamorphic testing approach. In Proceedings of the 3nd International Conference on Software Testing, Verification and Validation (ICST ’10), pages 35–44, Paris, France, 2010. IEEE.
+[4] J.A. Parejo, A.B. Sánchez, S. Segura, A. Ruiz-Cortés, R. Lopez-Herrejon, and A. Egyed. Multi-objective test case prioritization in highly configurable systems: A case study. Journal of Systems and Software, 122:287–310, September 2016.
 
-5. [62] J.A. Parejo, A.B. Sánchez, S. Segura, A. Ruiz-Cortés, R. Lopez-Herrejon, and A. Egyed. Multi-objective test case prioritization in highly configurable systems: A case study. Journal of Systems and Software, 122:287–310, September 2016.
+[5] S.Segura,R.M.Hierons,D.Benavides,andA.Ruiz-Cortés.Automatedtestdatageneration on the analyses of feature models: A metamorphic testing approach. In Proceedings of the 3nd International Conference on Software Testing, Verification and Validation (ICST ’10), pages 35–44, Paris, France, 2010. IEEE.
 
-6. [43] C. Henard, M. Papadakis, G. Perrouin, J. Klein, and Y. Le Traon. Multi-objective test generation for software product lines. In Proceedings of the 17th International Software Product Line Conference (SPLC ’13), pages 62–71, Tokyo, Japan, 2013. ACM.
+[6] S. Wang, D. Buchmann, S. Ali, A. Gotlieb, D. Pradhan, and M. Liaaen. Multi-objective test prioritization in software product line testing: An industrial case study. In Proceedings of the 18th International Software Product Line Conference (SPLC ’14), pages 32–41, Florence, Italy, 2014. ACM.
 
 

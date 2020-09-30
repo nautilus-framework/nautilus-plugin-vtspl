@@ -10,7 +10,7 @@ You need to download Nautilus Framework in your machine (available at https://gi
 
 Open the pom.xml file at ```nautilus-web``` module (from Nautilus Framework) and add the following maven dependency:
 
-```maven
+```xml
 <dependency>
   <groupId>thiagodnf.nautilus.plugin</groupId>
   <artifactId>nautilus-plugin-vtspl</artifactId>

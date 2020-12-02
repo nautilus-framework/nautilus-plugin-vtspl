@@ -1,6 +1,7 @@
 package org.nautilus.plugin.vtspl.extension.problem;
 
 import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -81,5 +82,29 @@ public class VTSPLProblemExtension extends AbstractProblemExtension {
         }
 	    
         return variables;
+    }
+	
+	@Override
+    public List<Path> getAllInstances() {
+
+        List<Path> allInstances = new ArrayList<>();
+
+        allInstances.add(getInstanceFolder().resolve("cas.txt"));
+        allInstances.add(getInstanceFolder().resolve("drupal.txt"));
+        allInstances.add(getInstanceFolder().resolve("eshop.txt"));
+        allInstances.add(getInstanceFolder().resolve("james.txt"));
+        allInstances.add(getInstanceFolder().resolve("smarthome.txt"));
+        allInstances.add(getInstanceFolder().resolve("ws.txt"));
+        
+        return allInstances;
+    }
+    
+    private Path getInstanceFolder() {
+        
+        return Paths.get("nautilus-plugin-vtspl")
+                .resolve("src")
+                .resolve("main")
+                .resolve("resources")
+                .resolve("instances");
     }
 }

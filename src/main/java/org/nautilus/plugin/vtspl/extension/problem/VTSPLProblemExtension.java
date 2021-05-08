@@ -1,7 +1,6 @@
 package org.nautilus.plugin.vtspl.extension.problem;
 
 import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -12,19 +11,17 @@ import org.nautilus.plugin.extension.problem.AbstractProblemExtension;
 import org.nautilus.plugin.vtspl.encoding.instance.TXTInstanceData;
 import org.nautilus.plugin.vtspl.encoding.objective.AliveMutantsObjective;
 import org.nautilus.plugin.vtspl.encoding.objective.CostObjective;
-import org.nautilus.plugin.vtspl.encoding.objective.SimilarityObjective;
 import org.nautilus.plugin.vtspl.encoding.objective.NumberOfProductsObjective;
+import org.nautilus.plugin.vtspl.encoding.objective.SimilarityObjective;
 import org.nautilus.plugin.vtspl.encoding.objective.UncoveredPairsObjective;
 import org.nautilus.plugin.vtspl.encoding.objective.UnimportantFeaturesObjective;
 import org.nautilus.plugin.vtspl.encoding.objective.UnselectedFeaturesObjective;
 import org.nautilus.plugin.vtspl.encoding.problem.VTSPLProblem;
-import org.pf4j.Extension;
 import org.uma.jmetal.problem.Problem;
 import org.uma.jmetal.solution.BinarySolution;
 import org.uma.jmetal.solution.Solution;
 import org.uma.jmetal.util.binarySet.BinarySet;
 
-@Extension
 public class VTSPLProblemExtension extends AbstractProblemExtension {
 
 	@Override
@@ -82,29 +79,5 @@ public class VTSPLProblemExtension extends AbstractProblemExtension {
         }
 	    
         return variables;
-    }
-	
-	@Override
-    public List<Path> getAllInstances() {
-
-        List<Path> allInstances = new ArrayList<>();
-
-        allInstances.add(getInstanceFolder().resolve("cas.txt"));
-        allInstances.add(getInstanceFolder().resolve("drupal.txt"));
-        allInstances.add(getInstanceFolder().resolve("eshop.txt"));
-        allInstances.add(getInstanceFolder().resolve("james.txt"));
-        allInstances.add(getInstanceFolder().resolve("smarthome.txt"));
-        allInstances.add(getInstanceFolder().resolve("ws.txt"));
-        
-        return allInstances;
-    }
-    
-    private Path getInstanceFolder() {
-        
-        return Paths.get("nautilus-plugin-vtspl")
-                .resolve("src")
-                .resolve("main")
-                .resolve("resources")
-                .resolve("instances");
     }
 }

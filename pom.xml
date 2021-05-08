@@ -2,8 +2,8 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>org.nautilus.plugin</groupId>
-	<artifactId>nautilus-plugin-vtspl</artifactId>
+	<groupId>org.nautilus-framework</groupId>
+	<artifactId>nautilus-framework-plugin-vtspl</artifactId>
     <version>1.0.0</version>
 	<name>Nautilus Plugin VTSPL</name>
 	<description>Nautilus plugin for the VTSPL problem</description>
@@ -20,21 +20,14 @@
 	</organization>
 	<dependencies>
 		<dependency>
-			<groupId>org.nautilus</groupId>
-			<artifactId>nautilus-core</artifactId>
+			<groupId>org.nautilus-framework</groupId>
+			<artifactId>nautilus-framework-core</artifactId>
 			<version>1.0.0</version>
 		</dependency>
 		<dependency>
-			<groupId>org.nautilus</groupId>
-			<artifactId>nautilus-plugin</artifactId>
+			<groupId>org.nautilus-framework</groupId>
+			<artifactId>nautilus-framework-plugin</artifactId>
 			<version>1.0.0</version>
-		</dependency>
-		<dependency>
-			<groupId>org.pf4j</groupId>
-			<artifactId>pf4j</artifactId>
-			<version>2.4.0</version>
-			<!-- !!! VERY IMPORTANT -->
-			<scope>provided</scope>
 		</dependency>
 		<!-- JUnit Test Framework -->
 		<dependency>
